@@ -1,4 +1,4 @@
-We attempt to simulate proof-of-concept streaming applications to demonstrate the
+I attempt to simulate proof-of-concept streaming applications to demonstrate the
 integration of machine learning model, Kafka and Spark streaming and create visualisation to
 recommend busy locations for street art performing. 
 
